@@ -8,4 +8,4 @@ The majority of course lessons are available through our course GitHub organizat
 ## Computational Environment  
 For ease of use, we have put together an online virtual HPC environment that we will all be using this week. It is a 'jupyterhub', which we'll affectionately refer to as the 'Hub.
 
-To get set up in the course jupyterhub, checkout this tutorial, which we will go through together on Day 1 [the hub intro](https://github.com/Bigelow-SCG-Course/Day1AM_intro_to_jupyterhub/blob/main/Intro_to_environment.ipynb).
+To get set up in the course jupyterhub, checkout this tutorial, which we will go through together on Day 1 [the hub intro](https://github.com/Bigelow-SCG-Course/Day1AM_intro_to_jupyterhub/blob/main/Intro_to_the_hub.md).
