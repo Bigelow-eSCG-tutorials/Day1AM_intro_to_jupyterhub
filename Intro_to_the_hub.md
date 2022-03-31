@@ -1,4 +1,4 @@
-## Getting started in the 'Hub
+## Getting started in the Jupyterhub
 
 The purpose of this morning lesson is to get your computational environments set up. We'll be using this hub for the next couple of days.
 
