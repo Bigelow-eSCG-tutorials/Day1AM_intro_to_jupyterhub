@@ -29,13 +29,13 @@ storage/data/
 
 Everyone can have their own working directory in the folder 
 ```
-storage/user_lab
+storage/userlab
 ```
 
 Let's navigate there now and create working directories for ourselves:
 
 ```
-$ cd storage/user_lab
+$ cd storage/userlab
 $ mkdir {your_username}
 ```
 
@@ -52,14 +52,9 @@ $ mkdir sag_data
 Copy over the data from the data directory to our working directory:
 
 ```
-$ cp ~/storage/data/sag_deliverables/AG-910/AG-910-B21.tar.gz sag_data/
+$ cp -R ~/storage/data/sag_deliverables/AG-910/AG-910-B21 sag_data/
 ```
 
-And then extract information from this target directory: 
-
-```
-$ tar -xvf sag_data/AG-910-B21.tar.gz
-```
 
 We can navigate into that directory we just extracted using the side browser.  Let's do that right now. You can see all of the files within this deliverables folder. We can look at any of these through the jupyter lab simply by double clicking the file.  
 
